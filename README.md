@@ -1,0 +1,1 @@
+> Testing out a software architecture prompt to build one of itself in agent form.... `ai-docs` was the result of 7 step-by-step choices of ~10  questions. This prompt is sick. <https://github.com/eighteyes/dev-prompts/>
